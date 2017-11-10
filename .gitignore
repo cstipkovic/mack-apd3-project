@@ -23,3 +23,6 @@ hs_err_pid*
 
 $ Vagrant
 .vagrant
+
+
+.DS_Store
